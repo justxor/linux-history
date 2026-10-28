@@ -1110,7 +1110,7 @@ mindmap
 
 ---
 
-## ⚖️ Linux, Windows, macOS
+## 🆚 Linux, Windows, macOS
 
 | | 🐧 Linux | 🪟 Windows | 🍏 macOS |
 |---|---|---|---|
